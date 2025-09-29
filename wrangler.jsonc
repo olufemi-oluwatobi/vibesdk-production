@@ -51,13 +51,13 @@
 	"images": {
 		"binding": "IMAGES"
 	},
-    "dispatch_namespaces": [
-        {
-            "binding": "DISPATCHER",
-            "namespace": "vibesdk-default-namespace",
-            "remote": true
-        }
-    ],
+    // "dispatch_namespaces": [
+    //     {
+    //         "binding": "DISPATCHER",
+    //         "namespace": "vibesdk-default-namespace",
+    //         "remote": true
+    //     }
+    // ],
 	"containers": [
 		{
 			"class_name": "UserAppSandboxService",
